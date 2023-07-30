@@ -12,3 +12,7 @@ This is the third project done to obtain the Free Code Camp Responsive Web Desig
 
 ## HTML skeleton
 
+<img src="HTML_Skeleton.png" />
+
+## Final product
+
