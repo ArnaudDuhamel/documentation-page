@@ -9,3 +9,6 @@ This is the third project done to obtain the Free Code Camp Responsive Web Desig
 ## High fidelity prototype
 
 <img src="High-fidelity-prototype_documentation.png" />
+
+## HTML skeleton
+
