@@ -16,3 +16,4 @@ This is the third project done to obtain the Free Code Camp Responsive Web Desig
 
 ## Final product
 
+<img src="final_product.png" />
